@@ -1,0 +1,37 @@
+# Working directory:
+C:\Users\Materiais-DEM\Desktop\pasta para github - Copia\Auxiliar\particulas X_T
+
+# Unit cell external coordinates:
+# x0,x1,y0,y1,z0,z1
+0.0,7.0e-3,0.0,7.0e-3,0.0,7.0e-3
+
+# Number of constituents:
+3
+
+# Constituent properties:
+# EX,EY,EZ,GXY,GXZ,GYZ,NUXY,NUXZ,NUYZ,DENS
+# (add one line per constituent)
+0.1,0.1,0.1,1,1,1,1,1,1,0.00001
+47200,47200,47200,1,1,1,1,1,1,2350.367
+1000000.0,1000000.0,1000000.0,1,1,1,1,1,1,3125.867
+
+# Element type:
+# 1 - SOLID185, 2 - SOLID186, 3 - SOLID187
+3
+
+# Meshing parameters for automatic (smart) element sizing
+# (from 1 - fine mesh to 10 - coarse mesh)
+# 0 - default, n - activates smartSizing and sets the size level to n
+1
+
+# Element edge length on surface boundaries
+# 0.0 - default, size - otherwise
+0.0
+
+# Name of the .cdb file containing meshed geometry:
+# (do not include file extension / do not include spaces)
+Meshed_Geometry_File_Square_Vf035
+
+# Name of the output result file:
+# (do not include file extension / do not include spaces)
+Output_R-esults_Square_Vf035
